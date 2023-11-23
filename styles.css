@@ -25,8 +25,11 @@ img{
 	border-top:20px solid white;
 }
 .book>h2{
-	color:rgb(119, 119, 119);
+	color:black;
 	margin-bottom:-15px;
+}
+.book>p{
+	color:#777777;
 }
 .price{
 	background:#2ecc71;
